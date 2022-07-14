@@ -14,7 +14,7 @@ The purpose of this assignment was to creat a exploritory analysis for a ride-sh
   - Fairs per driver and ride follow an opposite pattern, where average rural fairs are much higher for these two buckets.  This could be explained either through supply and demand or average ride distance.  With less availibility, a company could increase fairs or rural trips may just be longer generating hier revenu.  Lastly rates per driver are also higher due to lack of drivers in that area.
 - **Line Chart**
   - It is worth mentioning that when looking at the trend in total revenue, suburban fairs have increased +50% (~1500 vs ~1000) in the month of April.      
-![](Resources/summary_df.png)
+
 ![](Resources/multi-line.png)
 ## Summary
 Based on this limited data set, my three recommendations are:
